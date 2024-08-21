@@ -1,5 +1,5 @@
 ### Movie-App
 <br>
-react toy project 입니다.
+> react toy project 입니다.
 <br>
-![image](https://github.com/user-attachments/assets/a55f87d1-6fe9-4829-ae1e-0ee98dee1fd3)
+![스크린샷 2024-08-22 005149](https://github.com/user-attachments/assets/8abaa296-1728-4421-b2ea-b14e26aae6c1)
